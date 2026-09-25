@@ -1,4 +1,4 @@
-# Worker Contracts System (Sistema de Contratos de Trabalhadores)
+# Sistema de Contratos de Trabalhadores
 
 > **Projeto desenvolvido durante o curso de Java do professor Nélio Alves.**
 
